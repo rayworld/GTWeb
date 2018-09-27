@@ -9,7 +9,6 @@ using System.Web.Mvc;
 
 namespace GTWeb.Areas.Control.Controllers
 {
-
     [AdminAuthorize]
     /// <summary>
     /// 用户控制器
